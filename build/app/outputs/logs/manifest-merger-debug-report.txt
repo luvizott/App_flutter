@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [:sqflite] C:\codigos\flutter\marinke\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] C:\codigos\flutter\marinke\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\2273b3ff9c8be10adc07ff8ea15edf80\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\f92cd39ee0f3a7900dab3b44668ad013\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7f6da7dd564b66290bd94e4489583e0e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\550e0bd5094c39b4870ba0e0d643cf37\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\57e5197d8043bbef5694f2ef182904d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\754d0ebf9e064ad9366a3c588481cf26\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\03fae995ea33f396fccc6c572c12e470\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\21b4ef635b1fe771c636af9d9d3973fd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\0bfef97399620557eae639464d9c9d68\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\75da96599f28c7673770c1d38c7370ed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\42bc303393e46673a6b5b0e0c3760634\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\aafa9478f4740d787d4a3f2efb7f517c\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\4bdbc3d061d697d7e3554ba6ada6bf66\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:15:5-38:19
+MERGED from [:url_launcher] C:\codigos\flutter\marinke\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] C:\codigos\flutter\marinke\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\754d0ebf9e064ad9366a3c588481cf26\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\754d0ebf9e064ad9366a3c588481cf26\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\aafa9478f4740d787d4a3f2efb7f517c\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\aafa9478f4740d787d4a3f2efb7f517c\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\754d0ebf9e064ad9366a3c588481cf26\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:16:9-57
+activity#br.com.thizer.thizerlist.MainActivity
+ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+MERGED from [:sqflite] C:\codigos\flutter\marinke\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\codigos\flutter\marinke\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\codigos\flutter\marinke\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\codigos\flutter\marinke\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\2273b3ff9c8be10adc07ff8ea15edf80\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\2273b3ff9c8be10adc07ff8ea15edf80\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\f92cd39ee0f3a7900dab3b44668ad013\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\f92cd39ee0f3a7900dab3b44668ad013\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7f6da7dd564b66290bd94e4489583e0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7f6da7dd564b66290bd94e4489583e0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\550e0bd5094c39b4870ba0e0d643cf37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\550e0bd5094c39b4870ba0e0d643cf37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\57e5197d8043bbef5694f2ef182904d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\57e5197d8043bbef5694f2ef182904d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\754d0ebf9e064ad9366a3c588481cf26\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\754d0ebf9e064ad9366a3c588481cf26\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\03fae995ea33f396fccc6c572c12e470\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\03fae995ea33f396fccc6c572c12e470\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\21b4ef635b1fe771c636af9d9d3973fd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\21b4ef635b1fe771c636af9d9d3973fd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\0bfef97399620557eae639464d9c9d68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\0bfef97399620557eae639464d9c9d68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\75da96599f28c7673770c1d38c7370ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\75da96599f28c7673770c1d38c7370ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\42bc303393e46673a6b5b0e0c3760634\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\42bc303393e46673a6b5b0e0c3760634\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\aafa9478f4740d787d4a3f2efb7f517c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\aafa9478f4740d787d4a3f2efb7f517c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\4bdbc3d061d697d7e3554ba6ada6bf66\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Luviz\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\4bdbc3d061d697d7e3554ba6ada6bf66\AndroidManifest.xml:20:5-44
+INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\codigos\flutter\marinke\android\app\src\main\AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] C:\codigos\flutter\marinke\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] C:\codigos\flutter\marinke\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] C:\codigos\flutter\marinke\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] C:\codigos\flutter\marinke\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:13-74
